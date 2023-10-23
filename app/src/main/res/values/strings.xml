@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">MyHeroes-ML</string>
+    <string name="heroes_name">heroes_name</string>
+    <string name="description">description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+    <string name="about">About</string>
+    <string name="your_name">Ahmad Nabawi</string>
+    <string name="your_email">a.nabawi16@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Miya</item>
+        <item>Balmond</item>
+        <item>Saber</item>
+        <item>Alice</item>
+        <item>Nana</item>
+        <item>Tigreal</item>
+        <item>Alucard</item>
+        <item>Karina</item>
+        <item>Akai</item>
+        <item>Franco</item>
+        <item>Bane</item>
+        <item>Bruno</item>
+        <item>Clint</item>
+        <item>Rafaela</item>
+        <item>Eudora</item>
+        <item>Zilong</item>
+        <item>Fanny</item>
+        <item>Layla</item>
+        <item>Monitor</item>
+        <item>Lolita</item>
+        <item>Hayabusa</item>
+        <item>Freya</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pendeta Bulan yang menjaga Hutan Azrya. Miya tinggal di Azrya bersama para Moon Elf lainnya. Dia berdiri menjauhi perselisihan duniawi, dan tidak menyangka pasukan Iblis akan menyerang secara tiba-tiba. Untuk melindungi tanah airnya, Miya, sebagai Pendeta Bulan, memimpin para Peri Bulan lainnya dalam pertahanan melawan musuh asing. Dia adalah pahlawan pertama dalam game menurut "Sale Time" serta maskot resminya, seperti yang terlihat di akhir setiap trailer dan iklan serta ikon aplikasi.</item>
+        <item>Pemimpin Legiun Orc. Balmond adalah pemimpin para Orc. Memimpin pasukan Orc melawan invasi para Iblis. Selama pertempuran, dia mengonsumsi darah Blood Demon dan menjadi marah. Hal ini membangkitkan minat Alice, jadi dia menandatangani kontrak dengan Balmond dengan syarat mengembalikan Stormeye Wasteland. Balmond, dan pasukan Orcnya telah bertempur demi para Iblis.</item>
+        <item>Seorang pendekar pedang yang mengejar tak terkalahkan, digunakan oleh Laboratorium 1718. Pernah dipanggil Duan Meng dan terobsesi dengan kendo, Saber datang ke Laboratorium 1718 untuk mengubah dirinya demi mengejar kesempurnaan, namun ingatannya terhapus dan dia berubah menjadi mesin pembunuh. Penyiksaan ingatannya mendorongnya untuk akhirnya menghancurkan laboratorium dan berangkat mencari masa lalu.</item>
+        <item>Ratu Iblis Darah yang licik dan jahat. Alice lahir di era perselisihan dahulu kala. Sebagai anak haram, dia mengalami penghinaan sejak kecil karena disihir oleh setan. Alice memicu perselisihan dalam keluarga, akhirnya mengambil kendali atas seluruh keluarga dan memimpin semua anggotanya untuk mengkhianati Penguasa Cahaya. Namun pengkhianatan mereka memicu hukuman ilahi dan mengubahnya menjadi iblis darah. Hasilnya, Alice memimpin mereka untuk bergabung dengan Abyss dan mereka bertarung demi kegelapan sejak saat itu.</item>
+        <item>Leonin kecil tanpa khawatir. Untuk memiliki cara mengendalikan sihir di tubuhnya dan berhenti menimbulkan masalah, Nana pergi ke Rawa Bayangan untuk mencari buah ajaib bersama teman baiknya Molina. Namun saat bahaya datang, Molina mati melindungi Nana. Meskipun Nana mendapatkan apa yang diinginkannya, dia juga kehilangan temannya. Dengan kekuatan yang ditinggalkan Molina, Nana memulai perjalanan baru.</item>
+        <item>Pemimpin Ordo Cahaya, penjaga Kekaisaran Moniyan. Tigreal adalah bintang baru di Moniyan Empire. Namun dalam sebuah pertempuran, Pasukan Kedua yang dipimpinnya masuk jauh ke wilayah musuh sendirian di bawah perintah pejabat tingkat tinggi dan menderita kerugian besar, yang akhirnya Tigreal terpaksa bertanggung jawab. Karena itu, dia meninggalkan Kekaisaran dan datang ke Lembah Utara. Selama kurun waktu tersebut, Tigreal akhirnya menyelesaikan masalah yang ada di pikirannya. Akhirnya, dia kembali ke Kekaisaran dan menjadi pemimpin Orde Cahaya.</item>
+        <item>Pemburu iblis yang membenci kegelapan. Ayah Alucard adalah rekan seperjuangan Tigreal yang menghilang dalam pertarungan dengan para Iblis. Oleh karena itu, dia membenci kegelapan, bergabung dengan Biara Cahaya, dan bersumpah untuk menghancurkan semua Iblis. Namun kemudian dia mengetahui rahasia tersembunyi dari pertempuran ini, jadi dia meninggalkan Biara Cahaya dalam kemarahan dan melawan kegelapan dengan caranya sendiri.</item>
+        <item>Pembunuh dari suku Dark Elf yang berjuang untuk menyelamatkan adiknya Selena. Karina adalah pembunuh terbaik di antara para Dark Elf yang hidup kodependen dengan adik perempuannya Selena. Namun sebagai sang kakak, Karina gagal mencegah Selena mengabdikan dirinya pada Abyss. Untuk menghentikan perbuatan jahat adiknya, dan menemukan cara untuk menghidupkannya kembali, Karina memulai perjalanan baru.</item>
+        <item>Pahlawan panda perkasa di Stream Valley. Suatu ketika ada seekor panda di Stream Valley bernama Akai. Dengan mimpinya menjadi pahlawan, dia selalu bersemangat untuk menawarkan bantuan, namun sering kali justru malah menimbulkan lebih banyak masalah. Dia bekerja keras untuk mengejar mimpinya, dan meskipun dia pernah tersesat di jalur yang benar. Pada akhirnya, dia mengingat kembali niat awalnya dan menjadi pahlawan sejati.</item>
+        <item>Prajurit permafrost pemberani, musuh bebuyutan Bane. Franco adalah satu-satunya prajurit di Samudera Beku yang bisa memimpin orang dalam pertarungan melawan Bane. Dalam satu pertarungan, Franco mengetahui trik Bane dan akhirnya mengalahkannya. Kehidupan dibawa kembali ke Lembah Utara di bawah kepemimpinannya.</item>
+        <item>Pemimpin bajak laut yang kejam, musuh bebuyutan Franco. Bane adalah bajak laut yang ditempatkan di Samudera Beku. Dia pernah dengan kejam menguasai lautan luas di Lembah Utara. Dia adalah musuh bebuyutan Franco, yang kemudian menderita kekalahan di tangan Franco. Secara kebetulan, dia menjadi setengah manusia, setengah gurita seperti sekarang ini.</item>
+        <item>Kapten Eruditio Rangers yang melindungi kota dengan keterampilan sepak bolanya yang luar biasa. Bruno, kapten Eruditio Rangers dan pesepakbola bintang saat ini, memiliki masa lalu yang sangat penting. Lahir di Lahan Kering Agelta, Bruno dibesarkan di desa terpencil yang dikelilingi kemiskinan. Namun kesulitan itulah yang memicu kerinduannya akan kebebasan. Begitu ia cukup umur, Bruno bergabung dengan karavan dengan harapan bisa melihat dunia. Sayangnya, sebuah kecelakaan tragis merenggut kaki dan kebebasannya. Namun takdir berpihak padanya, karena ketika karavan melewatinya melewati Eruditio, Bruno ditawari kesempatan kedua. Meski risikonya besar, ia begitu tersentuh oleh semangat kota sehingga ia memutuskan untuk mengambil kesempatan itu, dan pada akhirnya keberaniannya membuahkan hasil. Dia tidak hanya mendapatkan kembali kakinya, tapi sekarang lebih cepat dari sebelumnya. Daripada melanjutkan perjalanannya, dia memutuskan untuk tetap tinggal di Eruditio dan menjadi pelindungnya. Dia bersumpah untuk menjunjung tinggi cita-cita Oasis di gurun pasir dan membantu orang lain menemukan kebebasan sejati.</item>
+        <item>Seorang penembak jitu yang penuh kebenaran dan keadilan. Clint adalah seorang sheriff di kota kecil di barat. Dia memerintahkan eksekusi keponakan Kane, Blandy. Penduduk takut pada Kane sehingga mereka menyerahkan Blandy ke geng dan mengusir Clint. Tapi Blandy tetap tidak membiarkan kota itu pergi. Clint keluar untuk menjaga kota dan saat krisisnya. Setelah masalah selesai, dia pergi ke Los Pecados untuk membasmi sepenuhnya kekuatan jahat Kane.</item>
+        <item>Malaikat yang dicintai dan dihormati oleh orang-orang di dunia ini. Rafaela dan kakak laki-lakinya Argus sama-sama malaikat, namun Argus diperlakukan berbeda karena statusnya sebagai target laki-laki. Segala pujian diberikan kepada Rafaela, dan segala kritik diserahkan kepada Argus. Setelah serangkaian peristiwa yang dibiarkan bergejolak, keretakan pun muncul dalam hubungan kedua kakak beradik itu. Argus akhirnya terjatuh ke dalam Abyss, namun tidak berdaya untuk berbuat apa-apa. Dia adalah malaikat yang dikagumi orang-orang, namun kakak laki-lakinya terus binasa dalam kesakitan.</item>
+        <item>Dekan Sekolah Akademi Sihir Ulturia, Light Elf. Eudora adalah seorang Light Elf yang memiliki bakat sihir tingkat tinggi, namun selalu kehilangan kendali emosi karena didiskriminasi karena status Elf-nya. Kemudian, dia ditemukan oleh mentor Akademi Sihir, Theresa, yang membawanya ke Akademi Sihir untuk belajar. Akhirnya, dia mengatasi kesuraman di hatinya dan menggantikan Theresa, menjadi dekan Sekolah Ulturia.</item>
+        <item>Keturunan Naga Besar, menjaga Cadia Riverlands. Zilong muda terpisah dari keluarganya dalam sebuah kecelakaan dan kemudian dibawa oleh Naga Besar, dimana dia berlatih bersama Ling di alam rahasia Altar Naga, akhirnya menjadi rambut Naga Besar, mengambil tugas penting untuk melindungi wilayah Sungai Cadia. Profil Seorang pejuang yang saleh, yang bersumpah untuk melindungi Cadia Riverlands. Kemampuannya yang luar biasa dan keyakinannya yang teguh telah menjadikannya juru bicara Naga Besar dan juga murid favoritnya. Jiwa Pejuang Oriental.</item>
+        <item>Seorang penari pedang di medan perang. Fanny merupakan adik dari Tigreal yang tumbuh di bawah perlindungan keluarga dan kakak laki-lakinya sejak ia masih kecil. Namun Tigreal menyalahkan kesalahannya dalam pertempuran dan meninggalkan rumah. Mengabaikan hambatan dari keluarganya, Fanny bergabung dengan tentara, dan melalui senjata rancangannya sendiri, dia berhasil menyelesaikan tugas demi tugas, menjadi petarung luar biasa yang bisa menjaga dirinya sendiri.</item>
+        <item>Gadis yang berusaha keras untuk menyelamatkan ayahnya. Sebagai anak petualang, Layla berangkat menjelajahi dunia setelah dia menerima Malefic Cannon dari ayahnya. Tak disangka, Layla jatuh ke tangan Laboratorium 1718. Ayahnya menyerahkan diri ke laboratorium tersebut sebagai sandera demi menyelamatkan Layla. Untuk menebus kesalahannya dan menyelamatkan ayahnya, Layla mengambil Malefic Gun dan memulai misi penyelamatan</item>
+        <item>Pangeran Minoa bertekad untuk memulihkan tanah airnya. Dahulu kala, pernah ada sebuah negara bagian bernama Minoa di Agelta Drylands. Pangeran di negara bagian tersebut, Minotaur melukai ayahnya secara fatal karena marah, setelah itu dia mengasingkan dirinya ke Labirin Minoa karena malu dan menyesal. Ketika dia keluar dari Labirin lagi, dia mendapati negaranya telah lama musnah, sanak saudaranya telah lama tiada. Dengan gigi siap, Monitor memulai jalan untuk memulihkan tanah airnya ke kejayaannya.</item>
+        <item>Gadis elf yang bergabung dengan penjaga kota Eruditio. Lahir di desa elf terpencil, Lolita kehilangan kedua orang tuanya karena perang dan diadopsi oleh Dr. Rooney. Master Rooney menanamkan Inti Energi Noumenon ke dalam tubuhnya, memungkinkannya mengeluarkan kekuatan besar bahkan dalam tubuhnya yang kecil. Dengan inti energinya, Lolita bahkan dapat memanipulasi palu mekanik raksasa dengan mudah.</item>
+        <item>Pemimpin sekte Bayangan Scarlet Shadow, di Cadia Riverlands. Hayabusa adalah kepala putra kedua Sekte Bayangan. Sejak masa kanak-kanak, ia tumbuh di bawah pemerintahan tangan besi ayahnya, dan meskipun ninjutsu-nya tidak pernah bisa menandingi kakaknya, ia adalah teman baik dan anggota keluarga baginya. Ketika Hayabusa mengetahui bahwa saudaranya telah disakiti oleh Hanzo, dia memutuskan untuk menghabiskan sisa hari-harinya menguasai ninjutsu, untuk memburu dan membalas dendam padanya.</item>
+        <item>Saya adalah putri dari Northern Vale. Aku bersumpah untuk melindunginya sampai nafas terakhirku. Valkyrie adalah pejuang terkemuka dan dihormati di antara orang-orang Vale Utara yang suka berperang. Pejuang wanita paling berani dan terkuat di setiap suku akan dipilih untuk bergabung dalam barisan mereka dan mengambil tanggung jawab membimbing roh, pahlawan yang gugur ke Valhalla, dan menjaga perdamaian di Lembah Utara. Menjadi seorang Valkyrie akan membawa kejayaan besar bagi semua orang di sukunya. Hal ini dianggap sebagai pencapaian terbesar yang pernah diimpikan seseorang. Namun kejayaan seperti itu harus dibayar mahal – para Valkyrie harus berkorban besar demi hak istimewa mereka. Mereka tidak akan pernah bisa menikah atau mempunyai anak dan mereka harus mengabdikan seluruh hidup mereka untuk melindungi Northern Vale.
+            Pada awalnya, kemuliaan dan beban seperti itu bukan milik Freya. Sejauh yang dia ingat, kakak perempuannya, Skuld, adalah harapan terbaik suku mereka. Dia pintar, tegas, berani, dan tangguh. Dia sudah bisa mengalahkan semua pejuang lain di suku mereka ketika dia baru berusia enam belas tahun. Imam besar Kuil Martir meramalkan masa depan dalam sebuah ramalan. "Seorang pejuang wanita, putri dari Northern Vale, suatu hari akan memimpin negeri ini menuju jalan baru." Semua orang percaya bahwa anak dalam ramalan itu adalah Skuld. Jadi, demi memenuhi takdirnya, dia terus berlatih siang demi malam, berharap suatu hari nanti dia bisa mengambil peran tersebut dan membawa masa depan gemilang bagi sukunya dan seluruh Lembah Utara.
+            Berbeda dengan saudara perempuannya Skuld, Freya muda menjalani kehidupan tanpa beban. Dia dikenal nakal, kuat, dan penuh rasa ingin tahu. Tapi, dia mengagumi adiknya Skuld, percaya bahwa dia bisa hidup bahagia selamanya, karena adiknya yang cerdas dan manis penuh kasih sayang ada bersamanya. Namun saudara perempuannya, Skuld, tidak setuju. Dia akan selalu menyemangati Freya, mengatakan bahwa suatu hari dia bisa menjadi orang yang akan memimpin suku mereka dan bahkan seluruh penduduk Vale Utara.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20230826055033</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20220525164318</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20220525164338</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20220525164353</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20220525164445</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20230917045247</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20220525164519</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20230826055036</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20220525164621</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20220525164636</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20230826055037</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20230826055039</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Valkyrie_%28revamp%29.jpg/revision/latest/scale-to-width-down/280?cb=20211202055307</item>
+    </string-array>
+</resources>
